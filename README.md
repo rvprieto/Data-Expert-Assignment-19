@@ -1,8 +1,5 @@
-![capa dnc](https://user-images.githubusercontent.com/87284229/143665002-7cbe2b64-b733-41cb-bd6b-54650a79b1b5.png)
-
-
-
 # Data-Expert-Assignment-19
+![capa dnc](https://user-images.githubusercontent.com/87284229/143665002-7cbe2b64-b733-41cb-bd6b-54650a79b1b5.png)
 Este Assignment é um mix de Clusterização e Regressão
 
 CONTEXTO 
